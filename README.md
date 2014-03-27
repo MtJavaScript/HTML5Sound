@@ -6,8 +6,8 @@ HTML5Sound
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.js"></script>
 ```
 
-# Samples  
-## Sample 1  
+# Samples
+## Sample 1
 ``` javascript
 $("#sound1").click(function(){
 	var s = new Mt.Sound({
