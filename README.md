@@ -1,7 +1,6 @@
 HTML5Sound
 ==========
  Very small HTML5 audio JavaScript lib
-
 #Include
 ``` html
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.js"></script>
