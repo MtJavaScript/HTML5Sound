@@ -9,8 +9,8 @@ HTML5Sound
 # Samples
 ## Sample 1
 ``` html
-<button id="sound1" >Sound 1</button>
-<button id="sound2" >Sound 2</button>
+<button id="sound1">Sound 1</button>
+<button id="sound2">Sound 2</button>
 
 <script>
 $("#sound1").click(function(){
