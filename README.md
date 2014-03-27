@@ -1,5 +1,6 @@
 HTML5Sound
 ==========
+ Very small HTML5 audio JavaScript lib
 
 #Include
 ``` html
