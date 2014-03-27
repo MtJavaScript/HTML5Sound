@@ -8,7 +8,11 @@ HTML5Sound
 
 # Samples
 ## Sample 1
-``` javascript
+``` html
+<button id="sound1" >Sound 1</button>
+<button id="sound2" >Sound 2</button>
+
+<script>
 $("#sound1").click(function(){
 	var s = new Mt.Sound({
 		src: '/lib/mp3/bb1.mp3'
@@ -24,4 +28,5 @@ $("#sound2").click(function(){
 	
 	s.play();
 });
+</script>
 ```
